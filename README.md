@@ -85,18 +85,8 @@ The project has the following folder structure:
   - `index.js`: Entry point of the application.
 - `public`: Contains the public assets and HTML template.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 This project was inspired by the concept of CRUD operations and leverages the power of Redux Toolkit and createAsyncThunk. Special thanks to the Redux and React.js communities for their invaluable resources and documentation.
 
-## Contact
 
-For any inquiries or questions, please reach out to [asif064@gmail.com](mailto:asif064@gmail.com).
